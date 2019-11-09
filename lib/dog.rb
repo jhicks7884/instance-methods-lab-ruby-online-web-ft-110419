@@ -8,7 +8,7 @@ end
 
 def sit
   puts "Sits!"
-  
+
 end
 end
 
