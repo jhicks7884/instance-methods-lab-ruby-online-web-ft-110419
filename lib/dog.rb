@@ -9,8 +9,7 @@ end
 def sit
   puts "Sits!"
 
-end
-end
+ end
 
 fido = Dog.new
 fido
