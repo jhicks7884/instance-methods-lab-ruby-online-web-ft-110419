@@ -5,6 +5,7 @@ def bark
   puts "Woof!"
  end
 end
+
 def sit
   puts "Sits!"
 end
